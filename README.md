@@ -57,5 +57,5 @@ java -jar target/hiring-0.0.1-SNAPSHOT.jar
 
 ## Download Links
 
-- GitHub Repository: [Your GitHub Repo URL]
-- JAR File: [Your JAR File URL] 
+- GitHub Repository: https://github.com/Sujalbajaj376/bajajfinserv.git
+- JAR File: [Will be updated after release creation] 
